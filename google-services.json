@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906921232565",
+    "project_id": "pushtest-d1681",
+    "storage_bucket": "pushtest-d1681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906921232565:android:9fe4aa11c99733bc7f96fc",
+        "android_client_info": {
+          "package_name": "com.mistive.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906921232565-ioj91uvvj025f1vgqf4apavh7b24crgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuv6Kam5_fL7rqD7RJBTv0V89aBBEiLfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906921232565-ioj91uvvj025f1vgqf4apavh7b24crgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
